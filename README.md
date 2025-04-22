@@ -31,8 +31,3 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </p>
-
----
-
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantsuthar&show_icons=true&theme=tokyonight)
